@@ -3,7 +3,7 @@
 
 **Note: The public version of assetnote is a proof-of-concept. Feel free to use it, but I provide no warranty or support for this project.**
 
-**For the enterprise version of Assetnote, visit [https://assetnote.io](https://assetnote.io)**
+**The enterprise version of Assetnote has been in development since the release of this project. It's substantially changed and performs recon and security scanning at scale. For the enterprise version of Assetnote, visit [https://assetnote.io](https://assetnote.io).**
 
 ![logo](http://i.imgur.com/nY80uWj.png)
 
